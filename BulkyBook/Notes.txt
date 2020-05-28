@@ -1,0 +1,19 @@
+﻿
+
+Front :
+https://bootswatch.com/
+https://jqueryui.com/datepicker/
+https://sweetalert.js.org/guides/
+https://fontawesome.com/
+https://github.com/CodeSeven/toastr
+
+https://www.tiny.cloud/
+
+Back :
+
+DataBase :
+
+Password of users : Admin123*
+
+To sending emails :
+SendGrid
